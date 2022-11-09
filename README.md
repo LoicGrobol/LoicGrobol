@@ -1,6 +1,6 @@
 ### Hi! Bonjour ! Hej! Demat !
 
-I’m Loïc Grobol. I’m a maître de conférence (≈ Assistant Professor) in computational linguistics at [Université Paris Nanterre](https://parisnanterre.fr), France 🇫🇷, in the
+I’m Loïc Grobol. I’m a maître de conférence (≈ Associate Professor) in computational linguistics at [Université Paris Nanterre](https://parisnanterre.fr), France 🇫🇷, in the
 [MoDyCo](https://modyco.fr) team and associate member of the [Lattice](lattice.cnrs.fr) lab
 ([CNRS](https://cnrs.fr) and [École Normale Supérieure](https://www.ens.psl.eu)).
 
