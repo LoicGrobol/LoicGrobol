@@ -1,7 +1,7 @@
 ### Hi! Bonjour ! Hej! Demat !
 
 I’m Loïc Grobol. I’m a maître de conférence (≈ Associate Professor) in computational linguistics at [Université Paris Nanterre](https://parisnanterre.fr), France 🇫🇷, in the
-[MoDyCo](https://modyco.fr) team and associate member of the [Lattice](lattice.cnrs.fr) lab
+[MoDyCo](https://modyco.fr) team and associate member of the [Lattice](https://lattice.cnrs.fr) lab
 ([CNRS](https://cnrs.fr) and [École Normale Supérieure](https://www.ens.psl.eu)).
 
 I pronounce my name [loic gʁobɔl]. I typically use they/them pronouns in English and gender-neutral pronouns in other languages where they exist.
